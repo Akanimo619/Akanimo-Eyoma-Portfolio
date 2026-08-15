@@ -4,6 +4,12 @@ This repository contains my personal data analytics and business intelligence po
 
 The portfolio focuses mainly on business intelligence and data analysis, with a smaller section dedicated to applied machine learning projects. Most of the projects started with a dataset and the goal of understanding what the data was saying. I then used dashboards, visualisations, calculations and analysis to present the results in a way that is easier to understand.
 
+## Live Portfolio
+
+You can view the portfolio here:
+
+https://akanimo619.github.io/Akanimo-Eyoma-Portfolio/
+
 ## Projects
 
 ### Road Accident Dashboard
